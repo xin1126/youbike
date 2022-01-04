@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <HelloWorld msg="Hello Vue 3 + TypeScript + Vite" />
+  <Router-view />
 </template>
 
 <style>
